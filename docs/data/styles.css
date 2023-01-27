@@ -144,4 +144,28 @@
 }
 .table_cell {
 }
+.marker {
+  color:#FFFFFF;
+}
+.refs-chart-data {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.shape1 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:normal;
+}
+.refs-design-material {
+  font-family:'Noto Sans CJK SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.flow_shape1 {
+}
 textarea, select, input, button { outline: none; }
